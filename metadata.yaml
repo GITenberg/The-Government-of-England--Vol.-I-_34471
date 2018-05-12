@@ -1,0 +1,30 @@
+_repo: The-Government-of-England--Vol.-I-_34471
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lowell, A. Lawrence (Abbott Lawrence)
+    aliases:
+    - Lowell, Abott Lawrence
+    - Lowell, Abbott Lawrence
+    birthdate: 1856
+    deathdate: 1943
+    gutenberg_agent_id: '37046'
+    url: http://www.gutenberg.org/2009/agents/37046
+    wikipedia: http://en.wikipedia.org/wiki/Abbott_Lawrence_Lowell
+description: ''
+gutenberg_issued: '2010-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34471'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JN'
+- !lcsh 'Great Britain -- Politics and government'
+title: The Government of England (Vol. I)
+url: http://www.gutenberg.org/ebooks/34471
